@@ -14,7 +14,7 @@ Hello, Finn.
 Hello, Finn.
 Hello, Finn.
 Hello, Finn.
-Hello, Finn.
-Hello, Finn.
+Hello, Finn. Master Test.
+Hello, Finn. Hot-fix Test.
 
 I type this line in hot-fix branch.
